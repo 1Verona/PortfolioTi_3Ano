@@ -2,7 +2,7 @@
 Portfolio relacionado a Tecnologia da informação
 
 
-<img align="right" width="400px" style="margin-top:-20px" src="https://i.gifer.com/JuJu.gif">
+<img align="right" width="400px" style="margin-top:-20px" src="https://imgur.com/gallery/IckD7">
 
 
 ## ⚜️Sobre Mim⚜️
