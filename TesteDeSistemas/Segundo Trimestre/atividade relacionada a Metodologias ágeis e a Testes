@@ -1,0 +1,11 @@
+02/08 - O que é a metodologia Domain-driven Design (DDD)?
+A metodologia é voltada para projetos complexos e depende da comunicação entre os envolvidos no projeto. Por isso, deve-se desenvolver uma linguagem ubíqua, que todos são capazes de entender o conhecimento apresentado pelos especialistas
+
+
+Em uma empresa que vende veículos e precisa de um sistema para automatizar as vendas, seu domínio é a venda de veículos; ou seja os integrantes da equipe aplicando o DDD, devem dominar este tema para criar o melhor sistema 
+
+
+03/08 - Orbitador climático de marte (NASA),1999
+
+
+A causa principal foi o uso de sistemas de unidades conflitantes. Os softwares utilizados pela equipe de controle na Terra forneciam dados no sistema de unidades usuais dos Estados Unidos (similar ao sistema imperial) enquanto que a sonda utilizava unidades do Sistema Internacional de Unidades. Como resultado, instruções erradas foram enviadas para a sonda, fazendo-a se aproximar demais do planeta. Acredita-se que ela foi destruída no atrio de entrada da atmosfera ou que foi perdida no espaço caso tenha conseguido sair da atmosfera. Custo da missão: $327,6 milhões de dólares.
